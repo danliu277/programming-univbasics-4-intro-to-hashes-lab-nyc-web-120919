@@ -1,9 +1,11 @@
 def new_hash
   # return an empty hash
+  return nil
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  return 
 end
 
 def pioneer
