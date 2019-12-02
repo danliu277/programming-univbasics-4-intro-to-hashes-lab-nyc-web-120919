@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  return 
+  return {"cat" => "Maru"}
 end
 
 def pioneer
